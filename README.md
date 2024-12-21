@@ -9,7 +9,7 @@ Single-cell RNA sequencing (scRNA-seq) is a powerful technique that enables the 
 Fig. UMAP of single-cell PBMC data, with cells colored by  and labeled by assigned cell type. Clusters represent distinct cell populations based on gene expression.
 
 ## Clustering of Non-small cell lung cancer (NSCLC) dissociated tumor cells - NSCLC.ipynb
-<img width="339" alt="Screenshot 2024-12-20 at 10 33 15 PM" src="https://github.com/user-attachments/assets/8224f7b9-b1c5-4519-afeb-3b11502acb1b" />
+<img width="522" alt="Screenshot 2024-12-20 at 10 38 54 PM" src="https://github.com/user-attachments/assets/fc494e74-ff38-465e-94c2-a80455f9249b" />
 
 Fig. UMAP of single-cell Non-small cell lung cancer (NSCLC) dissociated tumor cells data 
 
