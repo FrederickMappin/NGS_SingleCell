@@ -11,6 +11,6 @@ Fig. UMAP of single-cell PBMC data, with cells colored by  and labeled by assign
 ## Clustering of Non-small cell lung cancer (NSCLC) dissociated tumor cells - NSCLC.ipynb
 <img width="339" alt="Screenshot 2024-12-20 at 10 33 15 PM" src="https://github.com/user-attachments/assets/8224f7b9-b1c5-4519-afeb-3b11502acb1b" />
 
-FigUMAP of single-cell Non-small cell lung cancer (NSCLC) dissociated tumor cells data 
+Fig. UMAP of single-cell Non-small cell lung cancer (NSCLC) dissociated tumor cells data 
 
 
