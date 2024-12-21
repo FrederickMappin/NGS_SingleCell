@@ -4,5 +4,5 @@ Single-cell RNA sequencing (scRNA-seq) is a powerful technique that enables the 
 
 # Projects
 # Clustering of Peripheral Blood Mononuclear Cells (PBMCs) 
-![image](https://github.com/user-attachments/assets/f73b1947-c385-4398-a721-dd9ea06e9a7a)
+<img width="488" alt="Screenshot 2024-12-20 at 8 09 40 PM" src="https://github.com/user-attachments/assets/1ff62223-2a24-4dcc-bcee-b65f72ab9bbc" />
 
