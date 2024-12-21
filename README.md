@@ -4,8 +4,8 @@ Single-cell RNA sequencing (scRNA-seq) is a powerful technique that enables the 
 
 # Projects and Select Sample Outputs
 ## Clustering of Peripheral Blood Mononuclear Cells (PBMCs) - PBMC3k.ipynb
-<img width="346" alt="Screenshot 2024-12-20 at 8 12 48 PM" src="https://github.com/user-attachments/assets/a85818b6-dbb1-4d83-8472-1f33993e935d" /> /
-Fig. UMAP of single-cell PBMC data, with cells colored by  and labeled by assigned cell type. Clusters represent distinct cell populations based on gene expression.
+<img width="346" alt="Screenshot 2024-12-20 at 8 12 48 PM" src="https://github.com/user-attachments/assets/a85818b6-dbb1-4d83-8472-1f33993e935d" /> 
+>Fig. UMAP of single-cell PBMC data, with cells colored by  and labeled by assigned cell type. Clusters represent distinct cell populations based on gene expression.
 
 ## Clustering of Non-small cell lung cancer (NSCLC) dissociated tumor cells - NSCLC.ipynb
 
