@@ -1,4 +1,4 @@
-## This is a Training notebook, the intention is to keep upto date with analysis techniques and tools.
+## This is a Training notebook, the intention is to keep up to date with analysis techniques and tools.
 
 # Single-Cell RNA Sequencing (scRNA-seq) Analysis
 
